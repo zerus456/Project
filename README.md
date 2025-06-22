@@ -38,10 +38,11 @@ The objective is to develop a comprehensive regional business performance analys
 ### Tool
 - Data Processing: Dbeaver + Postgresql
 
-- Data Visualization: Python + Dash
+- Data Visualization: Power BI
 
 ### Flowchart
-![image](https://github.com/user-attachments/assets/2db54571-b959-4ae4-a7f4-283a4325a50a)
+![image](https://github.com/user-attachments/assets/a92e6ba3-5270-4d0f-9372-f91b130eb7e2)
+
 
 
 ### Data Transformation
@@ -93,38 +94,42 @@ By providing the YYYYMM parameter, the system can dynamically generate monthly r
 - Based on the two output tables generated from the data processing and aggregation steps, I developed and visualized six distinct dashboard pages. Each page is equipped with detailed charts, key performance indicators, and in-depth analyses, providing the business with a comprehensive view of financial performance and employee capabilities across regions. These reports serve as powerful decision-support tools, enabling the leadership team to monitor business performance, identify issues, and propose effective strategies to enhance operational efficiency in the financial sector. 
 
 **`Business requirements`**:  *Presents the goals, input data sources, report outputs, and data processing procedures illustrated with visual diagrams to help viewers understand the overall system.*
-![image](https://github.com/user-attachments/assets/2c21a6d1-08e3-4428-994f-b55c0b65dd65)
+![image](https://github.com/user-attachments/assets/5c6e8f7a-4daf-4a45-b026-ae7c35b8ab74)
+
 
 
 **`Regional summary report page`**: *Highlights key financial metrics and performance overview*
 
-![image](https://github.com/user-attachments/assets/be761dc5-0b8e-4638-9588-869e8ce21f48)
+![image](https://github.com/user-attachments/assets/4233ee47-c96d-4d3f-b2e3-dc562a45c383)
+
 
 
 **`Regional employee ranking report page`**: provides a detailed report of Regional Sales Manager rankings across all criteria and highlights the increase or decrease in rankings for each ASM*
 
-![image](https://github.com/user-attachments/assets/b7a367aa-64cc-438c-a197-dc633e27d0f2)
+![image](https://github.com/user-attachments/assets/cba0c44e-0eb7-4f61-8e4e-e99bb6ad6e98)
 
 
-In the employee ranking, I also added a filter for **`employee ranking per region`** to support businesses to focus mainly on the region that area
 
-![image](https://github.com/user-attachments/assets/e85e0b8d-4184-4e42-8552-d5dd31d20763)
+
 
 **`Overview report page`**: The consolidated revenue report page provides an overview of profit, revenue, expenses, and business performance by region with detailed charts and comments.
 
-![image](https://github.com/user-attachments/assets/4cf8971b-a7d9-4f14-8257-f26fe37332f9)
+![image](https://github.com/user-attachments/assets/df861837-cff2-4109-8b71-fc7318a9599a)
+
 
 **`Cumulative Expenses Page`**: The all-in-one cost tracking report page shows trends, distributions, and cost weights by region to help evaluate cost management effectiveness.
 
-![image](https://github.com/user-attachments/assets/bbfe08a4-0a50-4c2f-80b7-bd8e5c60eedf)
+![image](https://github.com/user-attachments/assets/cf22b545-a635-4cec-ab1a-0603ac2b5bb3)
+
 
 **`ASM Evaluation`**: The ASM evaluation report page summarizes personnel rankings, regional distribution, and outstanding individual business performance.
 
-![image](https://github.com/user-attachments/assets/65eb654f-cb15-466b-9522-b085de8c4f1a)
+![image](https://github.com/user-attachments/assets/8638483e-bfcd-485b-978a-cf5e9f635351)
+
 
 ## 4. view this dashboard 
 
-Check my dashboard here: [View my dashboard](https://prj_ducnguyen.hocnghiepvu.com/yeucau)
+Check my dashboard here: [View my dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTVjMmY5ZDAtNzliNC00YTM2LWJmNzQtMzQ0NWJiZGJiNWY5IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ==)
 
 
 
@@ -132,7 +137,7 @@ Check my dashboard here: [View my dashboard](https://prj_ducnguyen.hocnghiepvu.c
 ## 5. Conclusion
 
 
-Through this personal project, I not only improved my SQL skills, but also learned how to organize data, store it efficiently, and retrieve it when needed. In addition, I gained experience in data visualization by connecting to a database and using Python. Most importantly, I developed a clearer understanding of how data analysis can benefit a business. This allowed me to present data in a way that delivers the most valuable insights to viewers, especially the management team.
+Through this personal project, I not only improved my SQL skills, but also learned how to organize data, store it efficiently, and retrieve it when needed. In addition, I gained experience in data visualization by connecting to a database and using PowerBI. Most importantly, I developed a clearer understanding of how data analysis can benefit a business. This allowed me to present data in a way that delivers the most valuable insights to viewers, especially the management team.
 
 Since this is my first project, there are certainly unavoidable mistakes. If you have any feedback, please reach out at anduc061104@gmail.com.
 
