@@ -48,7 +48,7 @@ The objective is to develop a comprehensive regional business performance analys
 
 ### Data Transformation
 
-- Project Description: [Description Projecct.xlsx](https://github.com/user-attachments/files/20520283/Description.Projecct.xlsx)
+- Project Description: [Description Projecct.xlsx](https://github.com/zerus456/Project/blob/main/Project%20Description.xlsx)
 
 
 - Use Dbeaver to import into the database
@@ -72,7 +72,7 @@ The objective is to develop a comprehensive regional business performance analys
 ![image](https://github.com/user-attachments/assets/da8026a5-2b37-4c38-b9d8-195ba7385caf)
 
 
-- Create dimension tables by using PostgreSQL Data Definition Language (DDL) [View more](https://github.com/NguyenDuc061104/sql_project/blob/main/SQL/table.sql)
+- Create dimension tables by using PostgreSQL Data Definition Language (DDL) [View more](https://github.com/zerus456/Project/blob/main/Project%20Description.xlsx)
 
 Table: `dim_asm`: Information about employees in each area
 ![image](https://github.com/user-attachments/assets/0798757f-66e7-443d-b2b5-cca3e204c76c)
@@ -86,7 +86,7 @@ Table `dim_report_item`: Information about the criteria of the report table
 
 - Use PL/SQL programming to create a report that runs for each month in 2023.
 
-By providing the YYYYMM parameter, the system can dynamically generate monthly reports by extracting relevant data from the fact tables and joining it with the pre-defined dimension tables. This automated process ensures consistency, reduces manual intervention, and allows for scalable reporting across different time periods with accurate and up-to-date information. [View more](https://github.com/NguyenDuc061104/sql_project/blob/main/SQL/procedure_report.sql)
+By providing the YYYYMM parameter, the system can dynamically generate monthly reports by extracting relevant data from the fact tables and joining it with the pre-defined dimension tables. This automated process ensures consistency, reduces manual intervention, and allows for scalable reporting across different time periods with accurate and up-to-date information. [View more](https://github.com/zerus456/Project/blob/main/procedure_report.sql)
 
 ## 3. Dashboards
 
