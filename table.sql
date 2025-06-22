@@ -1,3 +1,6 @@
+-------------------------
+
+
 CREATE TABLE du_no_sau_wo (
     area VARCHAR(50),          -
     kpi_month INT,          
